@@ -33,7 +33,8 @@ Graph on:    what is a boat made of? 'benenenligeeeeGde. I say shat benenenligey
 As is visible, although the model is able to identify 'boat' and select the right node, the response is garbage. 
 
 Following resource may be used for larger knowledge graphs: https://conceptnet.io
-I have also developed a small tool that uses LLMs to generate knowledge graphs from PDFs / seed topics. However I do not believe that solution to be an appropriate as the purpose of using KBs is to improve accuracy and if they are based on LLM responses the accuracy may drop. 
+I have also developed a small tool that uses LLMs to generate knowledge graphs from PDFs / seed topics. However I do not believe that solution to be an appropriate as the purpose of using KBs is to improve accuracy and if they are based on LLM responses the accuracy may drop. However if I am able to clean up that vibeslop I will link that repo here
+
 
 # Contact 
 **Discord:** `minihdmi_22349`
