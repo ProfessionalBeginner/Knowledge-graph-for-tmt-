@@ -9,7 +9,8 @@ This is an addon to the following repo and has no real function without it: [jrz
 Using a knowledge graph that can be traversed using algorithms such as (personalized) page rank [Page rank Wikipedia ](https://en.wikipedia.org/wiki/PageRank) 
 This improves the context that the model has with its answers and information doesn't exclusively need to be encoded into weights; hence allowing training regimes to be focused more on core logic with bulk facts being far cheaper than adding millions-billions parameters to encode facts into weights
 Rather tan acting as a simple graphrag; model generates query and then proceeds to get the response from the graph; it is designed deeper into the into the architecture. With the model's internal state being used for vector comparison with the graph, and traversed facts being reinjected into the model <br>
-As an add-on it may be possible to use simple regex / property matching to create further relationships; and an advanced model may be able to 'create nodes to reason' (i understand this is a very vague statement however I am struggling to articulate it any better) 
+As an add-on it may be possible to use simple regex / property matching to create further relationships; and an advanced model may be able to 'create nodes to reason' (i understand this is a very vague statement however I am struggling to articulate it any better) <br> 
+Having a second dimension of information on the relationships; such as relationship strengths / dependencies may also be significantly useful 
 
 # Scope 
 The scope of this repo is limited to the word being identified by the model and appropriately selecting the right nodes in the graph system 
