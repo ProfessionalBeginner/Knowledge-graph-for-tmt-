@@ -97,4 +97,6 @@ def run(path: str):
         print(f'{i}: T+ {tp}, T- {tn}, F+ {fp}, F- {fn} ({score:.4f})')
 
 if __name__ == '__main__':
+    # FIXME: 'experimental-4.5m.safetensors' is not shipped with this handoff (nor produced by any script here).
+    # The checkpoints actually used are base-10m*.safetensors in checkpoints/ (dim=768, layers=16). Point this at one of those.
     run('experimental-4.5m.safetensors')

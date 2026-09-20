@@ -18,6 +18,8 @@ sys.path[:0] = [str(ROOT / d) for d in ("core", "graph", "demos", "tests")]
 
 import os
 
+# FIXME: these paths only exist on the original author's machine (Project Gutenberg texts saved to /tmp).
+# Download the books yourself and edit SOURCES before running.
 SOURCES = ["/tmp/alice.txt", "/tmp/pride.txt", "/tmp/timemachine.txt"]
 OUT_DIR = str(ROOT / "wikipedia_clean/AA")
 OUT_FILE = os.path.join(OUT_DIR, "wiki_00")

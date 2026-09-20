@@ -250,5 +250,7 @@ class Runtime:
 
 if __name__ == '__main__':
     # Runtime(path = 'larger-130m.safetensors', threshold = 0.35, dim = 2048, layers = 32, temp = 0.75, lr = 5e-4)()
+    # FIXME: 'experimental-4.5m.safetensors' is not shipped with this handoff (nor produced by any script here).
+    # The checkpoints actually used are base-10m*.safetensors in checkpoints/ (dim=768, layers=16). Point this at one of those.
     Runtime(path = 'experimental-4.5m.safetensors', threshold = 0.35, dim = 512, layers = 16, temp = 0.75, lr = 5e-4)()
     # param count = (256 * dim) + (dim * dim + dim * 2 + dim) + (256 * dim + dim + 1)
