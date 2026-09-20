@@ -21,8 +21,8 @@ Model needs to be trained with the graph not independently of it, and needs grea
 ```
 .venv/bin/python ask.py "what is a boat made of? "
 ==============================================================================
-YOU:         'what is a boat made of? '
-locked on:   'boat' (at 's a boat', confidence 0.97)
+YOU:         'what is a boat made of? '#known bug, needs trailing space at the end of the string
+locked on:   'boat' (at 's a boat', confidence 0.97) 
 graph found: ['boat HasA sail', 'boat UsedFor sailing', 'boat IsA vehicle']
 Graph off:   what is a boat made of? 'My sent at more at more at more at more at more '
 Graph on:    what is a boat made of? 'benenenligeeeeGde. I say shat benenenligeyingeee'
