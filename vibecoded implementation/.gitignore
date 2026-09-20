@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.safetensors
+*.log
+*.log.bak
+.venv/
+wikipedia_clean/
+.DS_Store

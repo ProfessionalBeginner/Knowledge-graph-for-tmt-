@@ -1,0 +1,3684 @@
+{
+  "nodes": [
+    {
+      "name": "dog",
+      "type": "animal"
+    },
+    {
+      "name": "cat",
+      "type": "animal"
+    },
+    {
+      "name": "fish",
+      "type": "animal"
+    },
+    {
+      "name": "bird",
+      "type": "animal"
+    },
+    {
+      "name": "eagle",
+      "type": "animal"
+    },
+    {
+      "name": "cow",
+      "type": "animal"
+    },
+    {
+      "name": "pig",
+      "type": "animal"
+    },
+    {
+      "name": "horse",
+      "type": "animal"
+    },
+    {
+      "name": "rabbit",
+      "type": "animal"
+    },
+    {
+      "name": "chicken",
+      "type": "animal"
+    },
+    {
+      "name": "bee",
+      "type": "animal"
+    },
+    {
+      "name": "snake",
+      "type": "animal"
+    },
+    {
+      "name": "ocean",
+      "type": "place"
+    },
+    {
+      "name": "river",
+      "type": "place"
+    },
+    {
+      "name": "lake",
+      "type": "place"
+    },
+    {
+      "name": "forest",
+      "type": "place"
+    },
+    {
+      "name": "mountain",
+      "type": "place"
+    },
+    {
+      "name": "desert",
+      "type": "place"
+    },
+    {
+      "name": "farm",
+      "type": "place"
+    },
+    {
+      "name": "city",
+      "type": "place"
+    },
+    {
+      "name": "house",
+      "type": "place"
+    },
+    {
+      "name": "kitchen",
+      "type": "place"
+    },
+    {
+      "name": "library",
+      "type": "place"
+    },
+    {
+      "name": "garden",
+      "type": "place"
+    },
+    {
+      "name": "beach",
+      "type": "place"
+    },
+    {
+      "name": "sky",
+      "type": "place"
+    },
+    {
+      "name": "valley",
+      "type": "place"
+    },
+    {
+      "name": "barn",
+      "type": "place"
+    },
+    {
+      "name": "knife",
+      "type": "tool"
+    },
+    {
+      "name": "fork",
+      "type": "tool"
+    },
+    {
+      "name": "spoon",
+      "type": "tool"
+    },
+    {
+      "name": "cup",
+      "type": "container"
+    },
+    {
+      "name": "plate",
+      "type": "container"
+    },
+    {
+      "name": "pan",
+      "type": "tool"
+    },
+    {
+      "name": "pot",
+      "type": "container"
+    },
+    {
+      "name": "chair",
+      "type": "furniture"
+    },
+    {
+      "name": "table",
+      "type": "furniture"
+    },
+    {
+      "name": "bed",
+      "type": "furniture"
+    },
+    {
+      "name": "desk",
+      "type": "furniture"
+    },
+    {
+      "name": "door",
+      "type": "object"
+    },
+    {
+      "name": "window",
+      "type": "object"
+    },
+    {
+      "name": "book",
+      "type": "object"
+    },
+    {
+      "name": "pen",
+      "type": "tool"
+    },
+    {
+      "name": "pencil",
+      "type": "tool"
+    },
+    {
+      "name": "paper",
+      "type": "object"
+    },
+    {
+      "name": "rope",
+      "type": "object"
+    },
+    {
+      "name": "car",
+      "type": "vehicle"
+    },
+    {
+      "name": "boat",
+      "type": "vehicle"
+    },
+    {
+      "name": "wheel",
+      "type": "object"
+    },
+    {
+      "name": "bicycle",
+      "type": "vehicle"
+    },
+    {
+      "name": "lamp",
+      "type": "object"
+    },
+    {
+      "name": "key",
+      "type": "object"
+    },
+    {
+      "name": "bread",
+      "type": "food"
+    },
+    {
+      "name": "milk",
+      "type": "drink"
+    },
+    {
+      "name": "cheese",
+      "type": "food"
+    },
+    {
+      "name": "egg",
+      "type": "food"
+    },
+    {
+      "name": "apple",
+      "type": "food"
+    },
+    {
+      "name": "rice",
+      "type": "food"
+    },
+    {
+      "name": "honey",
+      "type": "food"
+    },
+    {
+      "name": "meat",
+      "type": "food"
+    },
+    {
+      "name": "banana",
+      "type": "food"
+    },
+    {
+      "name": "soup",
+      "type": "drink"
+    },
+    {
+      "name": "wood",
+      "type": "material"
+    },
+    {
+      "name": "metal",
+      "type": "material"
+    },
+    {
+      "name": "stone",
+      "type": "material"
+    },
+    {
+      "name": "glass",
+      "type": "material"
+    },
+    {
+      "name": "plastic",
+      "type": "material"
+    },
+    {
+      "name": "sand",
+      "type": "material"
+    },
+    {
+      "name": "water",
+      "type": "material"
+    },
+    {
+      "name": "ice",
+      "type": "material"
+    },
+    {
+      "name": "clay",
+      "type": "material"
+    },
+    {
+      "name": "cotton",
+      "type": "material"
+    },
+    {
+      "name": "tree",
+      "type": "plant"
+    },
+    {
+      "name": "flower",
+      "type": "plant"
+    },
+    {
+      "name": "leaf",
+      "type": "plant"
+    },
+    {
+      "name": "grass",
+      "type": "plant"
+    },
+    {
+      "name": "cloud",
+      "type": "weather"
+    },
+    {
+      "name": "rain",
+      "type": "weather"
+    },
+    {
+      "name": "fire",
+      "type": "object"
+    },
+    {
+      "name": "sun",
+      "type": "object"
+    },
+    {
+      "name": "snow",
+      "type": "weather"
+    },
+    {
+      "name": "moon",
+      "type": "object"
+    },
+    {
+      "name": "animal",
+      "type": "value"
+    },
+    {
+      "name": "loyal",
+      "type": "value"
+    },
+    {
+      "name": "running",
+      "type": "value"
+    },
+    {
+      "name": "tail",
+      "type": "value"
+    },
+    {
+      "name": "agile",
+      "type": "value"
+    },
+    {
+      "name": "hunting",
+      "type": "value"
+    },
+    {
+      "name": "whisker",
+      "type": "value"
+    },
+    {
+      "name": "slippery",
+      "type": "value"
+    },
+    {
+      "name": "swimming",
+      "type": "value"
+    },
+    {
+      "name": "fin",
+      "type": "value"
+    },
+    {
+      "name": "small",
+      "type": "value"
+    },
+    {
+      "name": "flying",
+      "type": "value"
+    },
+    {
+      "name": "wing",
+      "type": "value"
+    },
+    {
+      "name": "strong",
+      "type": "value"
+    },
+    {
+      "name": "soaring",
+      "type": "value"
+    },
+    {
+      "name": "talon",
+      "type": "value"
+    },
+    {
+      "name": "gentle",
+      "type": "value"
+    },
+    {
+      "name": "grazing",
+      "type": "value"
+    },
+    {
+      "name": "horn",
+      "type": "value"
+    },
+    {
+      "name": "muddy",
+      "type": "value"
+    },
+    {
+      "name": "rooting",
+      "type": "value"
+    },
+    {
+      "name": "snout",
+      "type": "value"
+    },
+    {
+      "name": "fast",
+      "type": "value"
+    },
+    {
+      "name": "mane",
+      "type": "value"
+    },
+    {
+      "name": "fluffy",
+      "type": "value"
+    },
+    {
+      "name": "hopping",
+      "type": "value"
+    },
+    {
+      "name": "ear",
+      "type": "value"
+    },
+    {
+      "name": "noisy",
+      "type": "value"
+    },
+    {
+      "name": "clucking",
+      "type": "value"
+    },
+    {
+      "name": "feather",
+      "type": "value"
+    },
+    {
+      "name": "buzzing",
+      "type": "value"
+    },
+    {
+      "name": "cold",
+      "type": "value"
+    },
+    {
+      "name": "slithering",
+      "type": "value"
+    },
+    {
+      "name": "fang",
+      "type": "value"
+    },
+    {
+      "name": "place",
+      "type": "value"
+    },
+    {
+      "name": "salty",
+      "type": "value"
+    },
+    {
+      "name": "world",
+      "type": "value"
+    },
+    {
+      "name": "crashing",
+      "type": "value"
+    },
+    {
+      "name": "wave",
+      "type": "value"
+    },
+    {
+      "name": "flowing",
+      "type": "value"
+    },
+    {
+      "name": "streaming",
+      "type": "value"
+    },
+    {
+      "name": "current",
+      "type": "value"
+    },
+    {
+      "name": "deep",
+      "type": "value"
+    },
+    {
+      "name": "reflecting",
+      "type": "value"
+    },
+    {
+      "name": "shore",
+      "type": "value"
+    },
+    {
+      "name": "green",
+      "type": "value"
+    },
+    {
+      "name": "growing",
+      "type": "value"
+    },
+    {
+      "name": "tall",
+      "type": "value"
+    },
+    {
+      "name": "standing",
+      "type": "value"
+    },
+    {
+      "name": "peak",
+      "type": "value"
+    },
+    {
+      "name": "hot",
+      "type": "value"
+    },
+    {
+      "name": "heating",
+      "type": "value"
+    },
+    {
+      "name": "dune",
+      "type": "value"
+    },
+    {
+      "name": "rural",
+      "type": "value"
+    },
+    {
+      "name": "producing",
+      "type": "value"
+    },
+    {
+      "name": "busy",
+      "type": "value"
+    },
+    {
+      "name": "thriving",
+      "type": "value"
+    },
+    {
+      "name": "cozy",
+      "type": "value"
+    },
+    {
+      "name": "sheltering",
+      "type": "value"
+    },
+    {
+      "name": "warm",
+      "type": "value"
+    },
+    {
+      "name": "cooking",
+      "type": "value"
+    },
+    {
+      "name": "oven",
+      "type": "value"
+    },
+    {
+      "name": "quiet",
+      "type": "value"
+    },
+    {
+      "name": "storing",
+      "type": "value"
+    },
+    {
+      "name": "sandy",
+      "type": "value"
+    },
+    {
+      "name": "welcoming",
+      "type": "value"
+    },
+    {
+      "name": "blue",
+      "type": "value"
+    },
+    {
+      "name": "covering",
+      "type": "value"
+    },
+    {
+      "name": "low",
+      "type": "value"
+    },
+    {
+      "name": "stream",
+      "type": "value"
+    },
+    {
+      "name": "rustic",
+      "type": "value"
+    },
+    {
+      "name": "tool",
+      "type": "value"
+    },
+    {
+      "name": "sharp",
+      "type": "value"
+    },
+    {
+      "name": "cutting",
+      "type": "value"
+    },
+    {
+      "name": "blade",
+      "type": "value"
+    },
+    {
+      "name": "useful",
+      "type": "value"
+    },
+    {
+      "name": "eating",
+      "type": "value"
+    },
+    {
+      "name": "tine",
+      "type": "value"
+    },
+    {
+      "name": "smooth",
+      "type": "value"
+    },
+    {
+      "name": "stirring",
+      "type": "value"
+    },
+    {
+      "name": "handle",
+      "type": "value"
+    },
+    {
+      "name": "container",
+      "type": "value"
+    },
+    {
+      "name": "round",
+      "type": "value"
+    },
+    {
+      "name": "holding",
+      "type": "value"
+    },
+    {
+      "name": "flat",
+      "type": "value"
+    },
+    {
+      "name": "serving",
+      "type": "value"
+    },
+    {
+      "name": "rim",
+      "type": "value"
+    },
+    {
+      "name": "large",
+      "type": "value"
+    },
+    {
+      "name": "boiling",
+      "type": "value"
+    },
+    {
+      "name": "lid",
+      "type": "value"
+    },
+    {
+      "name": "furniture",
+      "type": "value"
+    },
+    {
+      "name": "sturdy",
+      "type": "value"
+    },
+    {
+      "name": "sitting",
+      "type": "value"
+    },
+    {
+      "name": "leg",
+      "type": "value"
+    },
+    {
+      "name": "supporting",
+      "type": "value"
+    },
+    {
+      "name": "soft",
+      "type": "value"
+    },
+    {
+      "name": "sleeping",
+      "type": "value"
+    },
+    {
+      "name": "pillow",
+      "type": "value"
+    },
+    {
+      "name": "wooden",
+      "type": "value"
+    },
+    {
+      "name": "writing",
+      "type": "value"
+    },
+    {
+      "name": "drawer",
+      "type": "value"
+    },
+    {
+      "name": "object",
+      "type": "value"
+    },
+    {
+      "name": "opening",
+      "type": "value"
+    },
+    {
+      "name": "transparent",
+      "type": "value"
+    },
+    {
+      "name": "viewing",
+      "type": "value"
+    },
+    {
+      "name": "pane",
+      "type": "value"
+    },
+    {
+      "name": "thick",
+      "type": "value"
+    },
+    {
+      "name": "reading",
+      "type": "value"
+    },
+    {
+      "name": "page",
+      "type": "value"
+    },
+    {
+      "name": "fine",
+      "type": "value"
+    },
+    {
+      "name": "tip",
+      "type": "value"
+    },
+    {
+      "name": "yellow",
+      "type": "value"
+    },
+    {
+      "name": "point",
+      "type": "value"
+    },
+    {
+      "name": "white",
+      "type": "value"
+    },
+    {
+      "name": "printing",
+      "type": "value"
+    },
+    {
+      "name": "line",
+      "type": "value"
+    },
+    {
+      "name": "tying",
+      "type": "value"
+    },
+    {
+      "name": "knot",
+      "type": "value"
+    },
+    {
+      "name": "vehicle",
+      "type": "value"
+    },
+    {
+      "name": "driving",
+      "type": "value"
+    },
+    {
+      "name": "sailing",
+      "type": "value"
+    },
+    {
+      "name": "sail",
+      "type": "value"
+    },
+    {
+      "name": "rolling",
+      "type": "value"
+    },
+    {
+      "name": "spoke",
+      "type": "value"
+    },
+    {
+      "name": "pedaling",
+      "type": "value"
+    },
+    {
+      "name": "pedal",
+      "type": "value"
+    },
+    {
+      "name": "bright",
+      "type": "value"
+    },
+    {
+      "name": "lighting",
+      "type": "value"
+    },
+    {
+      "name": "bulb",
+      "type": "value"
+    },
+    {
+      "name": "unlocking",
+      "type": "value"
+    },
+    {
+      "name": "teeth",
+      "type": "value"
+    },
+    {
+      "name": "food",
+      "type": "value"
+    },
+    {
+      "name": "nourishing",
+      "type": "value"
+    },
+    {
+      "name": "crust",
+      "type": "value"
+    },
+    {
+      "name": "flour",
+      "type": "value"
+    },
+    {
+      "name": "drink",
+      "type": "value"
+    },
+    {
+      "name": "creamy",
+      "type": "value"
+    },
+    {
+      "name": "foam",
+      "type": "value"
+    },
+    {
+      "name": "hard",
+      "type": "value"
+    },
+    {
+      "name": "rind",
+      "type": "value"
+    },
+    {
+      "name": "yolk",
+      "type": "value"
+    },
+    {
+      "name": "protein",
+      "type": "value"
+    },
+    {
+      "name": "red",
+      "type": "value"
+    },
+    {
+      "name": "core",
+      "type": "value"
+    },
+    {
+      "name": "fiber",
+      "type": "value"
+    },
+    {
+      "name": "grain",
+      "type": "value"
+    },
+    {
+      "name": "sweet",
+      "type": "value"
+    },
+    {
+      "name": "sweetening",
+      "type": "value"
+    },
+    {
+      "name": "drop",
+      "type": "value"
+    },
+    {
+      "name": "peel",
+      "type": "value"
+    },
+    {
+      "name": "warming",
+      "type": "value"
+    },
+    {
+      "name": "broth",
+      "type": "value"
+    },
+    {
+      "name": "material",
+      "type": "value"
+    },
+    {
+      "name": "burning",
+      "type": "value"
+    },
+    {
+      "name": "shiny",
+      "type": "value"
+    },
+    {
+      "name": "rusting",
+      "type": "value"
+    },
+    {
+      "name": "ore",
+      "type": "value"
+    },
+    {
+      "name": "eroding",
+      "type": "value"
+    },
+    {
+      "name": "crystal",
+      "type": "value"
+    },
+    {
+      "name": "clear",
+      "type": "value"
+    },
+    {
+      "name": "molding",
+      "type": "value"
+    },
+    {
+      "name": "rough",
+      "type": "value"
+    },
+    {
+      "name": "shifting",
+      "type": "value"
+    },
+    {
+      "name": "melting",
+      "type": "value"
+    },
+    {
+      "name": "particle",
+      "type": "value"
+    },
+    {
+      "name": "weaving",
+      "type": "value"
+    },
+    {
+      "name": "plant",
+      "type": "value"
+    },
+    {
+      "name": "pretty",
+      "type": "value"
+    },
+    {
+      "name": "blooming",
+      "type": "value"
+    },
+    {
+      "name": "petal",
+      "type": "value"
+    },
+    {
+      "name": "falling",
+      "type": "value"
+    },
+    {
+      "name": "vein",
+      "type": "value"
+    },
+    {
+      "name": "weather",
+      "type": "value"
+    },
+    {
+      "name": "floating",
+      "type": "value"
+    },
+    {
+      "name": "vapor",
+      "type": "value"
+    },
+    {
+      "name": "wet",
+      "type": "value"
+    },
+    {
+      "name": "flame",
+      "type": "value"
+    },
+    {
+      "name": "shining",
+      "type": "value"
+    },
+    {
+      "name": "ray",
+      "type": "value"
+    },
+    {
+      "name": "crater",
+      "type": "value"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "dog",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "dog",
+      "relation": "HasProperty",
+      "object": "loyal"
+    },
+    {
+      "subject": "dog",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "dog",
+      "relation": "CapableOf",
+      "object": "running"
+    },
+    {
+      "subject": "dog",
+      "relation": "HasA",
+      "object": "tail"
+    },
+    {
+      "subject": "dog",
+      "relation": "RelatedTo",
+      "object": "cat"
+    },
+    {
+      "subject": "cat",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "cat",
+      "relation": "HasProperty",
+      "object": "agile"
+    },
+    {
+      "subject": "cat",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "cat",
+      "relation": "CapableOf",
+      "object": "hunting"
+    },
+    {
+      "subject": "cat",
+      "relation": "HasA",
+      "object": "whisker"
+    },
+    {
+      "subject": "cat",
+      "relation": "RelatedTo",
+      "object": "dog"
+    },
+    {
+      "subject": "fish",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "fish",
+      "relation": "HasProperty",
+      "object": "slippery"
+    },
+    {
+      "subject": "fish",
+      "relation": "AtLocation",
+      "object": "ocean"
+    },
+    {
+      "subject": "fish",
+      "relation": "CapableOf",
+      "object": "swimming"
+    },
+    {
+      "subject": "fish",
+      "relation": "HasA",
+      "object": "fin"
+    },
+    {
+      "subject": "fish",
+      "relation": "RelatedTo",
+      "object": "water"
+    },
+    {
+      "subject": "bird",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "bird",
+      "relation": "HasProperty",
+      "object": "small"
+    },
+    {
+      "subject": "bird",
+      "relation": "AtLocation",
+      "object": "sky"
+    },
+    {
+      "subject": "bird",
+      "relation": "CapableOf",
+      "object": "flying"
+    },
+    {
+      "subject": "bird",
+      "relation": "HasA",
+      "object": "wing"
+    },
+    {
+      "subject": "bird",
+      "relation": "RelatedTo",
+      "object": "tree"
+    },
+    {
+      "subject": "eagle",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "eagle",
+      "relation": "HasProperty",
+      "object": "strong"
+    },
+    {
+      "subject": "eagle",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "eagle",
+      "relation": "CapableOf",
+      "object": "soaring"
+    },
+    {
+      "subject": "eagle",
+      "relation": "HasA",
+      "object": "talon"
+    },
+    {
+      "subject": "eagle",
+      "relation": "RelatedTo",
+      "object": "sky"
+    },
+    {
+      "subject": "cow",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "cow",
+      "relation": "HasProperty",
+      "object": "gentle"
+    },
+    {
+      "subject": "cow",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "cow",
+      "relation": "CapableOf",
+      "object": "grazing"
+    },
+    {
+      "subject": "cow",
+      "relation": "HasA",
+      "object": "horn"
+    },
+    {
+      "subject": "cow",
+      "relation": "RelatedTo",
+      "object": "milk"
+    },
+    {
+      "subject": "pig",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "pig",
+      "relation": "HasProperty",
+      "object": "muddy"
+    },
+    {
+      "subject": "pig",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "pig",
+      "relation": "CapableOf",
+      "object": "rooting"
+    },
+    {
+      "subject": "pig",
+      "relation": "HasA",
+      "object": "snout"
+    },
+    {
+      "subject": "pig",
+      "relation": "RelatedTo",
+      "object": "meat"
+    },
+    {
+      "subject": "horse",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "horse",
+      "relation": "HasProperty",
+      "object": "fast"
+    },
+    {
+      "subject": "horse",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "horse",
+      "relation": "CapableOf",
+      "object": "running"
+    },
+    {
+      "subject": "horse",
+      "relation": "HasA",
+      "object": "mane"
+    },
+    {
+      "subject": "horse",
+      "relation": "RelatedTo",
+      "object": "barn"
+    },
+    {
+      "subject": "rabbit",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "rabbit",
+      "relation": "HasProperty",
+      "object": "fluffy"
+    },
+    {
+      "subject": "rabbit",
+      "relation": "AtLocation",
+      "object": "garden"
+    },
+    {
+      "subject": "rabbit",
+      "relation": "CapableOf",
+      "object": "hopping"
+    },
+    {
+      "subject": "rabbit",
+      "relation": "HasA",
+      "object": "ear"
+    },
+    {
+      "subject": "rabbit",
+      "relation": "RelatedTo",
+      "object": "grass"
+    },
+    {
+      "subject": "chicken",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "chicken",
+      "relation": "HasProperty",
+      "object": "noisy"
+    },
+    {
+      "subject": "chicken",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "chicken",
+      "relation": "CapableOf",
+      "object": "clucking"
+    },
+    {
+      "subject": "chicken",
+      "relation": "HasA",
+      "object": "feather"
+    },
+    {
+      "subject": "chicken",
+      "relation": "RelatedTo",
+      "object": "egg"
+    },
+    {
+      "subject": "bee",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "bee",
+      "relation": "HasProperty",
+      "object": "small"
+    },
+    {
+      "subject": "bee",
+      "relation": "AtLocation",
+      "object": "garden"
+    },
+    {
+      "subject": "bee",
+      "relation": "CapableOf",
+      "object": "buzzing"
+    },
+    {
+      "subject": "bee",
+      "relation": "HasA",
+      "object": "wing"
+    },
+    {
+      "subject": "bee",
+      "relation": "RelatedTo",
+      "object": "honey"
+    },
+    {
+      "subject": "snake",
+      "relation": "IsA",
+      "object": "animal"
+    },
+    {
+      "subject": "snake",
+      "relation": "HasProperty",
+      "object": "cold"
+    },
+    {
+      "subject": "snake",
+      "relation": "AtLocation",
+      "object": "desert"
+    },
+    {
+      "subject": "snake",
+      "relation": "CapableOf",
+      "object": "slithering"
+    },
+    {
+      "subject": "snake",
+      "relation": "HasA",
+      "object": "fang"
+    },
+    {
+      "subject": "snake",
+      "relation": "RelatedTo",
+      "object": "forest"
+    },
+    {
+      "subject": "ocean",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "ocean",
+      "relation": "HasProperty",
+      "object": "salty"
+    },
+    {
+      "subject": "ocean",
+      "relation": "AtLocation",
+      "object": "world"
+    },
+    {
+      "subject": "ocean",
+      "relation": "CapableOf",
+      "object": "crashing"
+    },
+    {
+      "subject": "ocean",
+      "relation": "HasA",
+      "object": "wave"
+    },
+    {
+      "subject": "ocean",
+      "relation": "RelatedTo",
+      "object": "fish"
+    },
+    {
+      "subject": "river",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "river",
+      "relation": "HasProperty",
+      "object": "flowing"
+    },
+    {
+      "subject": "river",
+      "relation": "AtLocation",
+      "object": "forest"
+    },
+    {
+      "subject": "river",
+      "relation": "CapableOf",
+      "object": "streaming"
+    },
+    {
+      "subject": "river",
+      "relation": "HasA",
+      "object": "current"
+    },
+    {
+      "subject": "river",
+      "relation": "RelatedTo",
+      "object": "water"
+    },
+    {
+      "subject": "lake",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "lake",
+      "relation": "HasProperty",
+      "object": "deep"
+    },
+    {
+      "subject": "lake",
+      "relation": "AtLocation",
+      "object": "forest"
+    },
+    {
+      "subject": "lake",
+      "relation": "UsedFor",
+      "object": "reflecting"
+    },
+    {
+      "subject": "lake",
+      "relation": "HasA",
+      "object": "shore"
+    },
+    {
+      "subject": "lake",
+      "relation": "RelatedTo",
+      "object": "fish"
+    },
+    {
+      "subject": "forest",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "forest",
+      "relation": "HasProperty",
+      "object": "green"
+    },
+    {
+      "subject": "forest",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "forest",
+      "relation": "UsedFor",
+      "object": "growing"
+    },
+    {
+      "subject": "forest",
+      "relation": "HasA",
+      "object": "tree"
+    },
+    {
+      "subject": "forest",
+      "relation": "RelatedTo",
+      "object": "bird"
+    },
+    {
+      "subject": "mountain",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "mountain",
+      "relation": "HasProperty",
+      "object": "tall"
+    },
+    {
+      "subject": "mountain",
+      "relation": "AtLocation",
+      "object": "valley"
+    },
+    {
+      "subject": "mountain",
+      "relation": "UsedFor",
+      "object": "standing"
+    },
+    {
+      "subject": "mountain",
+      "relation": "HasA",
+      "object": "peak"
+    },
+    {
+      "subject": "mountain",
+      "relation": "RelatedTo",
+      "object": "eagle"
+    },
+    {
+      "subject": "desert",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "desert",
+      "relation": "HasProperty",
+      "object": "hot"
+    },
+    {
+      "subject": "desert",
+      "relation": "AtLocation",
+      "object": "world"
+    },
+    {
+      "subject": "desert",
+      "relation": "UsedFor",
+      "object": "heating"
+    },
+    {
+      "subject": "desert",
+      "relation": "HasA",
+      "object": "dune"
+    },
+    {
+      "subject": "desert",
+      "relation": "RelatedTo",
+      "object": "sand"
+    },
+    {
+      "subject": "farm",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "farm",
+      "relation": "HasProperty",
+      "object": "rural"
+    },
+    {
+      "subject": "farm",
+      "relation": "AtLocation",
+      "object": "valley"
+    },
+    {
+      "subject": "farm",
+      "relation": "UsedFor",
+      "object": "producing"
+    },
+    {
+      "subject": "farm",
+      "relation": "HasA",
+      "object": "barn"
+    },
+    {
+      "subject": "farm",
+      "relation": "RelatedTo",
+      "object": "cow"
+    },
+    {
+      "subject": "city",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "city",
+      "relation": "HasProperty",
+      "object": "busy"
+    },
+    {
+      "subject": "city",
+      "relation": "AtLocation",
+      "object": "river"
+    },
+    {
+      "subject": "city",
+      "relation": "UsedFor",
+      "object": "thriving"
+    },
+    {
+      "subject": "city",
+      "relation": "HasA",
+      "object": "house"
+    },
+    {
+      "subject": "city",
+      "relation": "RelatedTo",
+      "object": "car"
+    },
+    {
+      "subject": "house",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "house",
+      "relation": "HasProperty",
+      "object": "cozy"
+    },
+    {
+      "subject": "house",
+      "relation": "AtLocation",
+      "object": "city"
+    },
+    {
+      "subject": "house",
+      "relation": "UsedFor",
+      "object": "sheltering"
+    },
+    {
+      "subject": "house",
+      "relation": "HasA",
+      "object": "door"
+    },
+    {
+      "subject": "house",
+      "relation": "RelatedTo",
+      "object": "dog"
+    },
+    {
+      "subject": "kitchen",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "kitchen",
+      "relation": "HasProperty",
+      "object": "warm"
+    },
+    {
+      "subject": "kitchen",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "kitchen",
+      "relation": "UsedFor",
+      "object": "cooking"
+    },
+    {
+      "subject": "kitchen",
+      "relation": "HasA",
+      "object": "oven"
+    },
+    {
+      "subject": "kitchen",
+      "relation": "RelatedTo",
+      "object": "bread"
+    },
+    {
+      "subject": "library",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "library",
+      "relation": "HasProperty",
+      "object": "quiet"
+    },
+    {
+      "subject": "library",
+      "relation": "AtLocation",
+      "object": "city"
+    },
+    {
+      "subject": "library",
+      "relation": "UsedFor",
+      "object": "storing"
+    },
+    {
+      "subject": "library",
+      "relation": "HasA",
+      "object": "book"
+    },
+    {
+      "subject": "library",
+      "relation": "RelatedTo",
+      "object": "pen"
+    },
+    {
+      "subject": "garden",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "garden",
+      "relation": "HasProperty",
+      "object": "green"
+    },
+    {
+      "subject": "garden",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "garden",
+      "relation": "UsedFor",
+      "object": "growing"
+    },
+    {
+      "subject": "garden",
+      "relation": "HasA",
+      "object": "flower"
+    },
+    {
+      "subject": "garden",
+      "relation": "RelatedTo",
+      "object": "bee"
+    },
+    {
+      "subject": "beach",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "beach",
+      "relation": "HasProperty",
+      "object": "sandy"
+    },
+    {
+      "subject": "beach",
+      "relation": "AtLocation",
+      "object": "ocean"
+    },
+    {
+      "subject": "beach",
+      "relation": "UsedFor",
+      "object": "welcoming"
+    },
+    {
+      "subject": "beach",
+      "relation": "HasA",
+      "object": "sand"
+    },
+    {
+      "subject": "beach",
+      "relation": "RelatedTo",
+      "object": "water"
+    },
+    {
+      "subject": "sky",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "sky",
+      "relation": "HasProperty",
+      "object": "blue"
+    },
+    {
+      "subject": "sky",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "sky",
+      "relation": "UsedFor",
+      "object": "covering"
+    },
+    {
+      "subject": "sky",
+      "relation": "HasA",
+      "object": "cloud"
+    },
+    {
+      "subject": "sky",
+      "relation": "RelatedTo",
+      "object": "bird"
+    },
+    {
+      "subject": "valley",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "valley",
+      "relation": "HasProperty",
+      "object": "low"
+    },
+    {
+      "subject": "valley",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "valley",
+      "relation": "UsedFor",
+      "object": "sheltering"
+    },
+    {
+      "subject": "valley",
+      "relation": "HasA",
+      "object": "stream"
+    },
+    {
+      "subject": "valley",
+      "relation": "RelatedTo",
+      "object": "river"
+    },
+    {
+      "subject": "barn",
+      "relation": "IsA",
+      "object": "place"
+    },
+    {
+      "subject": "barn",
+      "relation": "HasProperty",
+      "object": "rustic"
+    },
+    {
+      "subject": "barn",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "barn",
+      "relation": "UsedFor",
+      "object": "storing"
+    },
+    {
+      "subject": "barn",
+      "relation": "HasA",
+      "object": "door"
+    },
+    {
+      "subject": "barn",
+      "relation": "RelatedTo",
+      "object": "horse"
+    },
+    {
+      "subject": "knife",
+      "relation": "IsA",
+      "object": "tool"
+    },
+    {
+      "subject": "knife",
+      "relation": "HasProperty",
+      "object": "sharp"
+    },
+    {
+      "subject": "knife",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "knife",
+      "relation": "UsedFor",
+      "object": "cutting"
+    },
+    {
+      "subject": "knife",
+      "relation": "HasA",
+      "object": "blade"
+    },
+    {
+      "subject": "knife",
+      "relation": "RelatedTo",
+      "object": "fork"
+    },
+    {
+      "subject": "knife",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "fork",
+      "relation": "IsA",
+      "object": "tool"
+    },
+    {
+      "subject": "fork",
+      "relation": "HasProperty",
+      "object": "useful"
+    },
+    {
+      "subject": "fork",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "fork",
+      "relation": "UsedFor",
+      "object": "eating"
+    },
+    {
+      "subject": "fork",
+      "relation": "HasA",
+      "object": "tine"
+    },
+    {
+      "subject": "fork",
+      "relation": "RelatedTo",
+      "object": "knife"
+    },
+    {
+      "subject": "fork",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "spoon",
+      "relation": "IsA",
+      "object": "tool"
+    },
+    {
+      "subject": "spoon",
+      "relation": "HasProperty",
+      "object": "smooth"
+    },
+    {
+      "subject": "spoon",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "spoon",
+      "relation": "UsedFor",
+      "object": "stirring"
+    },
+    {
+      "subject": "spoon",
+      "relation": "HasA",
+      "object": "handle"
+    },
+    {
+      "subject": "spoon",
+      "relation": "RelatedTo",
+      "object": "fork"
+    },
+    {
+      "subject": "spoon",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "cup",
+      "relation": "IsA",
+      "object": "container"
+    },
+    {
+      "subject": "cup",
+      "relation": "HasProperty",
+      "object": "round"
+    },
+    {
+      "subject": "cup",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "cup",
+      "relation": "UsedFor",
+      "object": "holding"
+    },
+    {
+      "subject": "cup",
+      "relation": "HasA",
+      "object": "handle"
+    },
+    {
+      "subject": "cup",
+      "relation": "RelatedTo",
+      "object": "plate"
+    },
+    {
+      "subject": "cup",
+      "relation": "MadeOf",
+      "object": "glass"
+    },
+    {
+      "subject": "plate",
+      "relation": "IsA",
+      "object": "container"
+    },
+    {
+      "subject": "plate",
+      "relation": "HasProperty",
+      "object": "flat"
+    },
+    {
+      "subject": "plate",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "plate",
+      "relation": "UsedFor",
+      "object": "serving"
+    },
+    {
+      "subject": "plate",
+      "relation": "HasA",
+      "object": "rim"
+    },
+    {
+      "subject": "plate",
+      "relation": "RelatedTo",
+      "object": "cup"
+    },
+    {
+      "subject": "plate",
+      "relation": "MadeOf",
+      "object": "glass"
+    },
+    {
+      "subject": "pan",
+      "relation": "IsA",
+      "object": "tool"
+    },
+    {
+      "subject": "pan",
+      "relation": "HasProperty",
+      "object": "hot"
+    },
+    {
+      "subject": "pan",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "pan",
+      "relation": "UsedFor",
+      "object": "cooking"
+    },
+    {
+      "subject": "pan",
+      "relation": "HasA",
+      "object": "handle"
+    },
+    {
+      "subject": "pan",
+      "relation": "RelatedTo",
+      "object": "pot"
+    },
+    {
+      "subject": "pan",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "pot",
+      "relation": "IsA",
+      "object": "container"
+    },
+    {
+      "subject": "pot",
+      "relation": "HasProperty",
+      "object": "large"
+    },
+    {
+      "subject": "pot",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "pot",
+      "relation": "UsedFor",
+      "object": "boiling"
+    },
+    {
+      "subject": "pot",
+      "relation": "HasA",
+      "object": "lid"
+    },
+    {
+      "subject": "pot",
+      "relation": "RelatedTo",
+      "object": "pan"
+    },
+    {
+      "subject": "pot",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "chair",
+      "relation": "IsA",
+      "object": "furniture"
+    },
+    {
+      "subject": "chair",
+      "relation": "HasProperty",
+      "object": "sturdy"
+    },
+    {
+      "subject": "chair",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "chair",
+      "relation": "UsedFor",
+      "object": "sitting"
+    },
+    {
+      "subject": "chair",
+      "relation": "HasA",
+      "object": "leg"
+    },
+    {
+      "subject": "chair",
+      "relation": "RelatedTo",
+      "object": "table"
+    },
+    {
+      "subject": "chair",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "table",
+      "relation": "IsA",
+      "object": "furniture"
+    },
+    {
+      "subject": "table",
+      "relation": "HasProperty",
+      "object": "flat"
+    },
+    {
+      "subject": "table",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "table",
+      "relation": "UsedFor",
+      "object": "supporting"
+    },
+    {
+      "subject": "table",
+      "relation": "HasA",
+      "object": "leg"
+    },
+    {
+      "subject": "table",
+      "relation": "RelatedTo",
+      "object": "chair"
+    },
+    {
+      "subject": "table",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "bed",
+      "relation": "IsA",
+      "object": "furniture"
+    },
+    {
+      "subject": "bed",
+      "relation": "HasProperty",
+      "object": "soft"
+    },
+    {
+      "subject": "bed",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "bed",
+      "relation": "UsedFor",
+      "object": "sleeping"
+    },
+    {
+      "subject": "bed",
+      "relation": "HasA",
+      "object": "pillow"
+    },
+    {
+      "subject": "bed",
+      "relation": "RelatedTo",
+      "object": "pillow"
+    },
+    {
+      "subject": "bed",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "desk",
+      "relation": "IsA",
+      "object": "furniture"
+    },
+    {
+      "subject": "desk",
+      "relation": "HasProperty",
+      "object": "wooden"
+    },
+    {
+      "subject": "desk",
+      "relation": "AtLocation",
+      "object": "library"
+    },
+    {
+      "subject": "desk",
+      "relation": "UsedFor",
+      "object": "writing"
+    },
+    {
+      "subject": "desk",
+      "relation": "HasA",
+      "object": "drawer"
+    },
+    {
+      "subject": "desk",
+      "relation": "RelatedTo",
+      "object": "pencil"
+    },
+    {
+      "subject": "desk",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "door",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "door",
+      "relation": "HasProperty",
+      "object": "wooden"
+    },
+    {
+      "subject": "door",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "door",
+      "relation": "UsedFor",
+      "object": "opening"
+    },
+    {
+      "subject": "door",
+      "relation": "HasA",
+      "object": "handle"
+    },
+    {
+      "subject": "door",
+      "relation": "RelatedTo",
+      "object": "key"
+    },
+    {
+      "subject": "door",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "window",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "window",
+      "relation": "HasProperty",
+      "object": "transparent"
+    },
+    {
+      "subject": "window",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "window",
+      "relation": "UsedFor",
+      "object": "viewing"
+    },
+    {
+      "subject": "window",
+      "relation": "HasA",
+      "object": "pane"
+    },
+    {
+      "subject": "window",
+      "relation": "RelatedTo",
+      "object": "glass"
+    },
+    {
+      "subject": "window",
+      "relation": "MadeOf",
+      "object": "glass"
+    },
+    {
+      "subject": "book",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "book",
+      "relation": "HasProperty",
+      "object": "thick"
+    },
+    {
+      "subject": "book",
+      "relation": "AtLocation",
+      "object": "library"
+    },
+    {
+      "subject": "book",
+      "relation": "UsedFor",
+      "object": "reading"
+    },
+    {
+      "subject": "book",
+      "relation": "HasA",
+      "object": "page"
+    },
+    {
+      "subject": "book",
+      "relation": "RelatedTo",
+      "object": "pen"
+    },
+    {
+      "subject": "book",
+      "relation": "MadeOf",
+      "object": "paper"
+    },
+    {
+      "subject": "pen",
+      "relation": "IsA",
+      "object": "tool"
+    },
+    {
+      "subject": "pen",
+      "relation": "HasProperty",
+      "object": "fine"
+    },
+    {
+      "subject": "pen",
+      "relation": "AtLocation",
+      "object": "desk"
+    },
+    {
+      "subject": "pen",
+      "relation": "UsedFor",
+      "object": "writing"
+    },
+    {
+      "subject": "pen",
+      "relation": "HasA",
+      "object": "tip"
+    },
+    {
+      "subject": "pen",
+      "relation": "RelatedTo",
+      "object": "pencil"
+    },
+    {
+      "subject": "pen",
+      "relation": "MadeOf",
+      "object": "plastic"
+    },
+    {
+      "subject": "pencil",
+      "relation": "IsA",
+      "object": "tool"
+    },
+    {
+      "subject": "pencil",
+      "relation": "HasProperty",
+      "object": "yellow"
+    },
+    {
+      "subject": "pencil",
+      "relation": "AtLocation",
+      "object": "desk"
+    },
+    {
+      "subject": "pencil",
+      "relation": "UsedFor",
+      "object": "writing"
+    },
+    {
+      "subject": "pencil",
+      "relation": "HasA",
+      "object": "point"
+    },
+    {
+      "subject": "pencil",
+      "relation": "RelatedTo",
+      "object": "pen"
+    },
+    {
+      "subject": "pencil",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "paper",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "paper",
+      "relation": "HasProperty",
+      "object": "white"
+    },
+    {
+      "subject": "paper",
+      "relation": "AtLocation",
+      "object": "library"
+    },
+    {
+      "subject": "paper",
+      "relation": "UsedFor",
+      "object": "printing"
+    },
+    {
+      "subject": "paper",
+      "relation": "HasA",
+      "object": "line"
+    },
+    {
+      "subject": "paper",
+      "relation": "RelatedTo",
+      "object": "book"
+    },
+    {
+      "subject": "paper",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "rope",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "rope",
+      "relation": "HasProperty",
+      "object": "strong"
+    },
+    {
+      "subject": "rope",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "rope",
+      "relation": "UsedFor",
+      "object": "tying"
+    },
+    {
+      "subject": "rope",
+      "relation": "HasA",
+      "object": "knot"
+    },
+    {
+      "subject": "rope",
+      "relation": "RelatedTo",
+      "object": "cotton"
+    },
+    {
+      "subject": "rope",
+      "relation": "MadeOf",
+      "object": "cotton"
+    },
+    {
+      "subject": "car",
+      "relation": "IsA",
+      "object": "vehicle"
+    },
+    {
+      "subject": "car",
+      "relation": "HasProperty",
+      "object": "fast"
+    },
+    {
+      "subject": "car",
+      "relation": "AtLocation",
+      "object": "city"
+    },
+    {
+      "subject": "car",
+      "relation": "UsedFor",
+      "object": "driving"
+    },
+    {
+      "subject": "car",
+      "relation": "HasA",
+      "object": "wheel"
+    },
+    {
+      "subject": "car",
+      "relation": "RelatedTo",
+      "object": "bicycle"
+    },
+    {
+      "subject": "car",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "boat",
+      "relation": "IsA",
+      "object": "vehicle"
+    },
+    {
+      "subject": "boat",
+      "relation": "HasProperty",
+      "object": "fast"
+    },
+    {
+      "subject": "boat",
+      "relation": "AtLocation",
+      "object": "ocean"
+    },
+    {
+      "subject": "boat",
+      "relation": "UsedFor",
+      "object": "sailing"
+    },
+    {
+      "subject": "boat",
+      "relation": "HasA",
+      "object": "sail"
+    },
+    {
+      "subject": "boat",
+      "relation": "RelatedTo",
+      "object": "water"
+    },
+    {
+      "subject": "boat",
+      "relation": "MadeOf",
+      "object": "wood"
+    },
+    {
+      "subject": "wheel",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "wheel",
+      "relation": "HasProperty",
+      "object": "round"
+    },
+    {
+      "subject": "wheel",
+      "relation": "AtLocation",
+      "object": "car"
+    },
+    {
+      "subject": "wheel",
+      "relation": "UsedFor",
+      "object": "rolling"
+    },
+    {
+      "subject": "wheel",
+      "relation": "HasA",
+      "object": "spoke"
+    },
+    {
+      "subject": "wheel",
+      "relation": "RelatedTo",
+      "object": "bicycle"
+    },
+    {
+      "subject": "wheel",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "IsA",
+      "object": "vehicle"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "HasProperty",
+      "object": "fast"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "AtLocation",
+      "object": "city"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "UsedFor",
+      "object": "pedaling"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "HasA",
+      "object": "pedal"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "RelatedTo",
+      "object": "car"
+    },
+    {
+      "subject": "bicycle",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "lamp",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "lamp",
+      "relation": "HasProperty",
+      "object": "bright"
+    },
+    {
+      "subject": "lamp",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "lamp",
+      "relation": "UsedFor",
+      "object": "lighting"
+    },
+    {
+      "subject": "lamp",
+      "relation": "HasA",
+      "object": "bulb"
+    },
+    {
+      "subject": "lamp",
+      "relation": "RelatedTo",
+      "object": "sun"
+    },
+    {
+      "subject": "lamp",
+      "relation": "MadeOf",
+      "object": "glass"
+    },
+    {
+      "subject": "key",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "key",
+      "relation": "HasProperty",
+      "object": "small"
+    },
+    {
+      "subject": "key",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "key",
+      "relation": "UsedFor",
+      "object": "unlocking"
+    },
+    {
+      "subject": "key",
+      "relation": "HasA",
+      "object": "teeth"
+    },
+    {
+      "subject": "key",
+      "relation": "RelatedTo",
+      "object": "door"
+    },
+    {
+      "subject": "key",
+      "relation": "MadeOf",
+      "object": "metal"
+    },
+    {
+      "subject": "bread",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "bread",
+      "relation": "HasProperty",
+      "object": "warm"
+    },
+    {
+      "subject": "bread",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "bread",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "bread",
+      "relation": "HasA",
+      "object": "crust"
+    },
+    {
+      "subject": "bread",
+      "relation": "RelatedTo",
+      "object": "milk"
+    },
+    {
+      "subject": "bread",
+      "relation": "MadeOf",
+      "object": "flour"
+    },
+    {
+      "subject": "milk",
+      "relation": "IsA",
+      "object": "drink"
+    },
+    {
+      "subject": "milk",
+      "relation": "HasProperty",
+      "object": "creamy"
+    },
+    {
+      "subject": "milk",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "milk",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "milk",
+      "relation": "HasA",
+      "object": "foam"
+    },
+    {
+      "subject": "milk",
+      "relation": "RelatedTo",
+      "object": "cow"
+    },
+    {
+      "subject": "milk",
+      "relation": "MadeOf",
+      "object": "water"
+    },
+    {
+      "subject": "cheese",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "cheese",
+      "relation": "HasProperty",
+      "object": "hard"
+    },
+    {
+      "subject": "cheese",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "cheese",
+      "relation": "UsedFor",
+      "object": "eating"
+    },
+    {
+      "subject": "cheese",
+      "relation": "HasA",
+      "object": "rind"
+    },
+    {
+      "subject": "cheese",
+      "relation": "RelatedTo",
+      "object": "milk"
+    },
+    {
+      "subject": "cheese",
+      "relation": "MadeOf",
+      "object": "milk"
+    },
+    {
+      "subject": "egg",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "egg",
+      "relation": "HasProperty",
+      "object": "round"
+    },
+    {
+      "subject": "egg",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "egg",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "egg",
+      "relation": "HasA",
+      "object": "yolk"
+    },
+    {
+      "subject": "egg",
+      "relation": "RelatedTo",
+      "object": "chicken"
+    },
+    {
+      "subject": "egg",
+      "relation": "MadeOf",
+      "object": "protein"
+    },
+    {
+      "subject": "apple",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "apple",
+      "relation": "HasProperty",
+      "object": "red"
+    },
+    {
+      "subject": "apple",
+      "relation": "AtLocation",
+      "object": "tree"
+    },
+    {
+      "subject": "apple",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "apple",
+      "relation": "HasA",
+      "object": "core"
+    },
+    {
+      "subject": "apple",
+      "relation": "RelatedTo",
+      "object": "tree"
+    },
+    {
+      "subject": "apple",
+      "relation": "MadeOf",
+      "object": "fiber"
+    },
+    {
+      "subject": "rice",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "rice",
+      "relation": "HasProperty",
+      "object": "white"
+    },
+    {
+      "subject": "rice",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "rice",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "rice",
+      "relation": "HasA",
+      "object": "grain"
+    },
+    {
+      "subject": "rice",
+      "relation": "RelatedTo",
+      "object": "bread"
+    },
+    {
+      "subject": "rice",
+      "relation": "MadeOf",
+      "object": "grain"
+    },
+    {
+      "subject": "honey",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "honey",
+      "relation": "HasProperty",
+      "object": "sweet"
+    },
+    {
+      "subject": "honey",
+      "relation": "AtLocation",
+      "object": "garden"
+    },
+    {
+      "subject": "honey",
+      "relation": "UsedFor",
+      "object": "sweetening"
+    },
+    {
+      "subject": "honey",
+      "relation": "HasA",
+      "object": "drop"
+    },
+    {
+      "subject": "honey",
+      "relation": "RelatedTo",
+      "object": "bee"
+    },
+    {
+      "subject": "honey",
+      "relation": "MadeOf",
+      "object": "flower"
+    },
+    {
+      "subject": "meat",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "meat",
+      "relation": "HasProperty",
+      "object": "red"
+    },
+    {
+      "subject": "meat",
+      "relation": "AtLocation",
+      "object": "farm"
+    },
+    {
+      "subject": "meat",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "meat",
+      "relation": "HasA",
+      "object": "fiber"
+    },
+    {
+      "subject": "meat",
+      "relation": "RelatedTo",
+      "object": "cow"
+    },
+    {
+      "subject": "meat",
+      "relation": "MadeOf",
+      "object": "protein"
+    },
+    {
+      "subject": "banana",
+      "relation": "IsA",
+      "object": "food"
+    },
+    {
+      "subject": "banana",
+      "relation": "HasProperty",
+      "object": "yellow"
+    },
+    {
+      "subject": "banana",
+      "relation": "AtLocation",
+      "object": "tree"
+    },
+    {
+      "subject": "banana",
+      "relation": "UsedFor",
+      "object": "nourishing"
+    },
+    {
+      "subject": "banana",
+      "relation": "HasA",
+      "object": "peel"
+    },
+    {
+      "subject": "banana",
+      "relation": "RelatedTo",
+      "object": "apple"
+    },
+    {
+      "subject": "banana",
+      "relation": "MadeOf",
+      "object": "fiber"
+    },
+    {
+      "subject": "soup",
+      "relation": "IsA",
+      "object": "drink"
+    },
+    {
+      "subject": "soup",
+      "relation": "HasProperty",
+      "object": "hot"
+    },
+    {
+      "subject": "soup",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "soup",
+      "relation": "UsedFor",
+      "object": "warming"
+    },
+    {
+      "subject": "soup",
+      "relation": "HasA",
+      "object": "broth"
+    },
+    {
+      "subject": "soup",
+      "relation": "RelatedTo",
+      "object": "spoon"
+    },
+    {
+      "subject": "soup",
+      "relation": "MadeOf",
+      "object": "water"
+    },
+    {
+      "subject": "wood",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "wood",
+      "relation": "HasProperty",
+      "object": "hard"
+    },
+    {
+      "subject": "wood",
+      "relation": "AtLocation",
+      "object": "forest"
+    },
+    {
+      "subject": "wood",
+      "relation": "CapableOf",
+      "object": "burning"
+    },
+    {
+      "subject": "wood",
+      "relation": "HasA",
+      "object": "fiber"
+    },
+    {
+      "subject": "wood",
+      "relation": "RelatedTo",
+      "object": "tree"
+    },
+    {
+      "subject": "metal",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "metal",
+      "relation": "HasProperty",
+      "object": "shiny"
+    },
+    {
+      "subject": "metal",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "metal",
+      "relation": "CapableOf",
+      "object": "rusting"
+    },
+    {
+      "subject": "metal",
+      "relation": "HasA",
+      "object": "ore"
+    },
+    {
+      "subject": "metal",
+      "relation": "RelatedTo",
+      "object": "stone"
+    },
+    {
+      "subject": "stone",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "stone",
+      "relation": "HasProperty",
+      "object": "hard"
+    },
+    {
+      "subject": "stone",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "stone",
+      "relation": "CapableOf",
+      "object": "eroding"
+    },
+    {
+      "subject": "stone",
+      "relation": "HasA",
+      "object": "crystal"
+    },
+    {
+      "subject": "stone",
+      "relation": "RelatedTo",
+      "object": "desert"
+    },
+    {
+      "subject": "glass",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "glass",
+      "relation": "HasProperty",
+      "object": "clear"
+    },
+    {
+      "subject": "glass",
+      "relation": "AtLocation",
+      "object": "window"
+    },
+    {
+      "subject": "glass",
+      "relation": "UsedFor",
+      "object": "reflecting"
+    },
+    {
+      "subject": "glass",
+      "relation": "HasA",
+      "object": "pane"
+    },
+    {
+      "subject": "glass",
+      "relation": "RelatedTo",
+      "object": "cup"
+    },
+    {
+      "subject": "plastic",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "plastic",
+      "relation": "HasProperty",
+      "object": "soft"
+    },
+    {
+      "subject": "plastic",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "plastic",
+      "relation": "UsedFor",
+      "object": "molding"
+    },
+    {
+      "subject": "plastic",
+      "relation": "HasA",
+      "object": "grain"
+    },
+    {
+      "subject": "plastic",
+      "relation": "RelatedTo",
+      "object": "cup"
+    },
+    {
+      "subject": "sand",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "sand",
+      "relation": "HasProperty",
+      "object": "rough"
+    },
+    {
+      "subject": "sand",
+      "relation": "AtLocation",
+      "object": "desert"
+    },
+    {
+      "subject": "sand",
+      "relation": "CapableOf",
+      "object": "shifting"
+    },
+    {
+      "subject": "sand",
+      "relation": "HasA",
+      "object": "grain"
+    },
+    {
+      "subject": "sand",
+      "relation": "RelatedTo",
+      "object": "beach"
+    },
+    {
+      "subject": "water",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "water",
+      "relation": "HasProperty",
+      "object": "cold"
+    },
+    {
+      "subject": "water",
+      "relation": "AtLocation",
+      "object": "ocean"
+    },
+    {
+      "subject": "water",
+      "relation": "CapableOf",
+      "object": "flowing"
+    },
+    {
+      "subject": "water",
+      "relation": "HasA",
+      "object": "wave"
+    },
+    {
+      "subject": "water",
+      "relation": "RelatedTo",
+      "object": "river"
+    },
+    {
+      "subject": "ice",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "ice",
+      "relation": "HasProperty",
+      "object": "cold"
+    },
+    {
+      "subject": "ice",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "ice",
+      "relation": "CapableOf",
+      "object": "melting"
+    },
+    {
+      "subject": "ice",
+      "relation": "HasA",
+      "object": "crystal"
+    },
+    {
+      "subject": "ice",
+      "relation": "RelatedTo",
+      "object": "snow"
+    },
+    {
+      "subject": "clay",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "clay",
+      "relation": "HasProperty",
+      "object": "soft"
+    },
+    {
+      "subject": "clay",
+      "relation": "AtLocation",
+      "object": "kitchen"
+    },
+    {
+      "subject": "clay",
+      "relation": "UsedFor",
+      "object": "molding"
+    },
+    {
+      "subject": "clay",
+      "relation": "HasA",
+      "object": "particle"
+    },
+    {
+      "subject": "clay",
+      "relation": "RelatedTo",
+      "object": "pot"
+    },
+    {
+      "subject": "cotton",
+      "relation": "IsA",
+      "object": "material"
+    },
+    {
+      "subject": "cotton",
+      "relation": "HasProperty",
+      "object": "soft"
+    },
+    {
+      "subject": "cotton",
+      "relation": "AtLocation",
+      "object": "house"
+    },
+    {
+      "subject": "cotton",
+      "relation": "UsedFor",
+      "object": "weaving"
+    },
+    {
+      "subject": "cotton",
+      "relation": "HasA",
+      "object": "fiber"
+    },
+    {
+      "subject": "cotton",
+      "relation": "RelatedTo",
+      "object": "rope"
+    },
+    {
+      "subject": "tree",
+      "relation": "IsA",
+      "object": "plant"
+    },
+    {
+      "subject": "tree",
+      "relation": "HasProperty",
+      "object": "tall"
+    },
+    {
+      "subject": "tree",
+      "relation": "AtLocation",
+      "object": "forest"
+    },
+    {
+      "subject": "tree",
+      "relation": "CapableOf",
+      "object": "growing"
+    },
+    {
+      "subject": "tree",
+      "relation": "HasA",
+      "object": "leaf"
+    },
+    {
+      "subject": "tree",
+      "relation": "RelatedTo",
+      "object": "bird"
+    },
+    {
+      "subject": "flower",
+      "relation": "IsA",
+      "object": "plant"
+    },
+    {
+      "subject": "flower",
+      "relation": "HasProperty",
+      "object": "pretty"
+    },
+    {
+      "subject": "flower",
+      "relation": "AtLocation",
+      "object": "garden"
+    },
+    {
+      "subject": "flower",
+      "relation": "CapableOf",
+      "object": "blooming"
+    },
+    {
+      "subject": "flower",
+      "relation": "HasA",
+      "object": "petal"
+    },
+    {
+      "subject": "flower",
+      "relation": "RelatedTo",
+      "object": "bee"
+    },
+    {
+      "subject": "leaf",
+      "relation": "IsA",
+      "object": "plant"
+    },
+    {
+      "subject": "leaf",
+      "relation": "HasProperty",
+      "object": "green"
+    },
+    {
+      "subject": "leaf",
+      "relation": "AtLocation",
+      "object": "tree"
+    },
+    {
+      "subject": "leaf",
+      "relation": "CapableOf",
+      "object": "falling"
+    },
+    {
+      "subject": "leaf",
+      "relation": "HasA",
+      "object": "vein"
+    },
+    {
+      "subject": "leaf",
+      "relation": "RelatedTo",
+      "object": "grass"
+    },
+    {
+      "subject": "grass",
+      "relation": "IsA",
+      "object": "plant"
+    },
+    {
+      "subject": "grass",
+      "relation": "HasProperty",
+      "object": "green"
+    },
+    {
+      "subject": "grass",
+      "relation": "AtLocation",
+      "object": "valley"
+    },
+    {
+      "subject": "grass",
+      "relation": "CapableOf",
+      "object": "growing"
+    },
+    {
+      "subject": "grass",
+      "relation": "HasA",
+      "object": "blade"
+    },
+    {
+      "subject": "grass",
+      "relation": "RelatedTo",
+      "object": "cow"
+    },
+    {
+      "subject": "cloud",
+      "relation": "IsA",
+      "object": "weather"
+    },
+    {
+      "subject": "cloud",
+      "relation": "HasProperty",
+      "object": "fluffy"
+    },
+    {
+      "subject": "cloud",
+      "relation": "AtLocation",
+      "object": "sky"
+    },
+    {
+      "subject": "cloud",
+      "relation": "CapableOf",
+      "object": "floating"
+    },
+    {
+      "subject": "cloud",
+      "relation": "HasA",
+      "object": "vapor"
+    },
+    {
+      "subject": "cloud",
+      "relation": "RelatedTo",
+      "object": "rain"
+    },
+    {
+      "subject": "rain",
+      "relation": "IsA",
+      "object": "weather"
+    },
+    {
+      "subject": "rain",
+      "relation": "HasProperty",
+      "object": "wet"
+    },
+    {
+      "subject": "rain",
+      "relation": "AtLocation",
+      "object": "sky"
+    },
+    {
+      "subject": "rain",
+      "relation": "CapableOf",
+      "object": "falling"
+    },
+    {
+      "subject": "rain",
+      "relation": "HasA",
+      "object": "drop"
+    },
+    {
+      "subject": "rain",
+      "relation": "RelatedTo",
+      "object": "cloud"
+    },
+    {
+      "subject": "fire",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "fire",
+      "relation": "HasProperty",
+      "object": "hot"
+    },
+    {
+      "subject": "fire",
+      "relation": "AtLocation",
+      "object": "forest"
+    },
+    {
+      "subject": "fire",
+      "relation": "CapableOf",
+      "object": "burning"
+    },
+    {
+      "subject": "fire",
+      "relation": "HasA",
+      "object": "flame"
+    },
+    {
+      "subject": "fire",
+      "relation": "RelatedTo",
+      "object": "sun"
+    },
+    {
+      "subject": "sun",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "sun",
+      "relation": "HasProperty",
+      "object": "bright"
+    },
+    {
+      "subject": "sun",
+      "relation": "AtLocation",
+      "object": "sky"
+    },
+    {
+      "subject": "sun",
+      "relation": "CapableOf",
+      "object": "shining"
+    },
+    {
+      "subject": "sun",
+      "relation": "HasA",
+      "object": "ray"
+    },
+    {
+      "subject": "sun",
+      "relation": "RelatedTo",
+      "object": "fire"
+    },
+    {
+      "subject": "snow",
+      "relation": "IsA",
+      "object": "weather"
+    },
+    {
+      "subject": "snow",
+      "relation": "HasProperty",
+      "object": "cold"
+    },
+    {
+      "subject": "snow",
+      "relation": "AtLocation",
+      "object": "mountain"
+    },
+    {
+      "subject": "snow",
+      "relation": "CapableOf",
+      "object": "falling"
+    },
+    {
+      "subject": "snow",
+      "relation": "HasA",
+      "object": "crystal"
+    },
+    {
+      "subject": "snow",
+      "relation": "RelatedTo",
+      "object": "ice"
+    },
+    {
+      "subject": "moon",
+      "relation": "IsA",
+      "object": "object"
+    },
+    {
+      "subject": "moon",
+      "relation": "HasProperty",
+      "object": "round"
+    },
+    {
+      "subject": "moon",
+      "relation": "AtLocation",
+      "object": "sky"
+    },
+    {
+      "subject": "moon",
+      "relation": "CapableOf",
+      "object": "shining"
+    },
+    {
+      "subject": "moon",
+      "relation": "HasA",
+      "object": "crater"
+    },
+    {
+      "subject": "moon",
+      "relation": "RelatedTo",
+      "object": "sun"
+    }
+  ]
+}
